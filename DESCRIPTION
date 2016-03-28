@@ -1,7 +1,8 @@
 Package: ExpDE
 Type: Package
 Title: Modular Differential Evolution for Experimenting with Operators
-Version: 0.1.1
+Version: 0.1.2
+Depends: R (>= 3.2.0)
 Date: 2016-03-25
 Authors@R: c(
             person("Felipe", "Campelo", email = "fcampelo@ufmg.br", 
@@ -14,8 +15,8 @@ Description: Modular implementation of the Differential Evolution algorithm for
 License: GPL-2
 RoxygenNote: 5.0.1
 NeedsCompilation: no
-Packaged: 2016-03-25 21:37:26 UTC; fcampelo
+Packaged: 2016-03-27 19:39:38 UTC; fcampelo
 Author: Felipe Campelo [aut, cre],
   Moises Botelho [aut]
 Repository: CRAN
-Date/Publication: 2016-03-26 15:12:53
+Date/Publication: 2016-03-28 11:03:58

@@ -1,4 +1,4 @@
-1eb6ac20f49e94ffeb5c25eb78395099 *DESCRIPTION
+824cb8a48f1d144fb8915e56cca7b06b *DESCRIPTION
 730a1c4b25de90287f67827f2bd0d10a *NAMESPACE
 c7c018c2df9d13f622a505428e009cd3 *R/ExpDE.R
 144a8db1ef1b225f6ed488c13ab82db0 *R/check_stop_criteria.R
@@ -27,7 +27,7 @@ b54728c59a688b8a4d41a2022e89ddea *R/recombination_wright.R
 0770f9dcf2c139518df423a2a137c32a *R/selection_standard.R
 3d21db6f6dbf6cb11558cf5aaa7ce655 *R/sphere.R
 c9f62daa33c8a0144c1062f43b5d9670 *R/utils.R
-a54775d50e220147dc1bc41cb4214bc6 *README.md
+fbb41983d36b1617e6d69978da5dd841 *README.md
 dc65cdf24c8c0b0a0657947ff2676d26 *man/ExpDE.Rd
 ebd1a123859350bdbf07a82630dbb11a *man/check_stop_criteria.Rd
 bd3a54a57979124b208d3184e51713e6 *man/create_population.Rd
